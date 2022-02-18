@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Realizar tres tipos de busquedas en la pagina de panamericana.com.co" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-02-17T00:03:21" hostname="DESKTOP-NRLF3B1" time="114.501">
+  <properties/>
+  <testcase name="Realizar busqueda por medio de la barra de busqueda de la pagina de panamericana.com.co" classname="Realizar tres tipos de busquedas en la pagina de panamericana.com.co" time="29.468"/>
+  <testcase name="Realizar busqueda por medio de la seleccion de categorias destacadas de la pagina panamericana.com.co" classname="Realizar tres tipos de busquedas en la pagina de panamericana.com.co" time="50.049"/>
+  <testcase name="Realizar busqueda de producto por medio de la opcion menu de la pagina panamericana.com.co" classname="Realizar tres tipos de busquedas en la pagina de panamericana.com.co" time="34.946"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 98.0.4758.48 (d869ab3eda60629b9fabbd4e30c0f833466c83fd-refs/branch-heads/4758@{#415}) on port 25420
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+feb 16, 2022 7:03:24 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+[Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
+        __    _____ _____ ____ _____   ____   _    ____  ____  _____ ____  
+  _     \ \  |_   _| ____/ ___|_   _| |  _ \ / \  / ___|/ ___|| ____|  _ \ 
+ (_)_____| |   | | |  _| \___ \ | |   | |_) / _ \ \___ \\___ \|  _| | | | |
+  _|_____| |   | | | |___ ___) || |   |  __/ ___ \ ___) |___) | |___| |_| |
+ (_)     | |   |_| |_____|____/ |_|   |_| /_/   \_\____/|____/|_____|____/ 
+        /_/                                                                
+
+TEST PASSED: Realizar busqueda por medio de la barra de busqueda de la pagina de panamericana.com.co
+----------------------------------------------------------------------------
+Starting ChromeDriver 98.0.4758.48 (d869ab3eda60629b9fabbd4e30c0f833466c83fd-refs/branch-heads/4758@{#415}) on port 14900
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+feb 16, 2022 7:03:52 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+[Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
+        __    _____ _____ ____ _____   ____   _    ____  ____  _____ ____  
+  _     \ \  |_   _| ____/ ___|_   _| |  _ \ / \  / ___|/ ___|| ____|  _ \ 
+ (_)_____| |   | | |  _| \___ \ | |   | |_) / _ \ \___ \\___ \|  _| | | | |
+  _|_____| |   | | | |___ ___) || |   |  __/ ___ \ ___) |___) | |___| |_| |
+ (_)     | |   |_| |_____|____/ |_|   |_| /_/   \_\____/|____/|_____|____/ 
+        /_/                                                                
+
+TEST PASSED: Realizar busqueda por medio de la seleccion de categorias destacadas de la pagina panamericana.com.co
+----------------------------------------------------------------------------
+Starting ChromeDriver 98.0.4758.48 (d869ab3eda60629b9fabbd4e30c0f833466c83fd-refs/branch-heads/4758@{#415}) on port 8768
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+feb 16, 2022 7:04:42 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+[Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
+        __    _____ _____ ____ _____   ____   _    ____  ____  _____ ____  
+  _     \ \  |_   _| ____/ ___|_   _| |  _ \ / \  / ___|/ ___|| ____|  _ \ 
+ (_)_____| |   | | |  _| \___ \ | |   | |_) / _ \ \___ \\___ \|  _| | | | |
+  _|_____| |   | | | |___ ___) || |   |  __/ ___ \ ___) |___) | |___| |_| |
+ (_)     | |   |_| |_____|____/ |_|   |_| /_/   \_\____/|____/|_____|____/ 
+        /_/                                                                
+
+TEST PASSED: Realizar busqueda de producto por medio de la opcion menu de la pagina panamericana.com.co
+----------------------------------------------------------------------------
+]]></system-err>
+</testsuite>

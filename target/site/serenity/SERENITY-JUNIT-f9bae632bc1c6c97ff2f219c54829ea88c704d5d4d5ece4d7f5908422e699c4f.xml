@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Realizar tres tipos de busquedas en la pagina de alkosto.com" skipped="0" tests="1" time="31.17" timestamp="2022-02-15 07:21:16"><testcase name="Realizar busqueda por medio de la barra de busqueda de la pagina de alkosto.com"><failure message="expected:&lt;... SLIDE REDONDO COLOR[ NEGRO Y MIEL]&gt; but was:&lt;... SLIDE REDONDO COLOR[]&gt;" type="java.lang.AssertionError">expected:&lt;... SLIDE REDONDO COLOR[ NEGRO Y MIEL]&gt; but was:&lt;... SLIDE REDONDO COLOR[]&gt;</failure><system-err>expected:&lt;... SLIDE REDONDO COLOR[ NEGRO Y MIEL]&gt; but was:&lt;... SLIDE REDONDO COLOR[]&gt;&#13;
+com.alkosto.steps.AlkostoBusquedaProdStep.validar(AlkostoBusquedaProdStep.java:68)&#13;
+com.alkosto.steps.AlkostoBusquedaProdStep.validarBusqueda(AlkostoBusquedaProdStep.java:79)&#13;
+AlkostoBusquedaProdStepDefinitions.validoQueSeMuestreEnPantallaLaBusquedaRealizada(AlkostoBusquedaProdStepDefinitions.java:29)&#13;
+✽.valido que se muestre en pantalla la busqueda realizada(src/test/resources/com.alkosto.features/AlkostoBusquedaProd.feature:11)&#13;
+</system-err></testcase></testsuite>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Realizar tres tipos de busquedas en la pagina de panamericana.com.co" skipped="0" tests="1" time="24.84" timestamp="2022-02-15 09:49:59"><testcase name="Realizar busqueda de producto por medio de la opcion menu de la pagina panamericana.com.co"><failure message="expected:&lt;...N515-55-54Y1, 15.6&quot;,[ NEGRO]&gt; but was:&lt;...N515-55-54Y1, 15.6&quot;,[]&gt;" type="java.lang.AssertionError">expected:&lt;...N515-55-54Y1, 15.6",[ NEGRO]&gt; but was:&lt;...N515-55-54Y1, 15.6",[]&gt;</failure><system-err>expected:&lt;...N515-55-54Y1, 15.6",[ NEGRO]&gt; but was:&lt;...N515-55-54Y1, 15.6",[]&gt;&#13;
+com.alkosto.steps.AlkostoBusquedaProdStep.validar(AlkostoBusquedaProdStep.java:65)&#13;
+com.alkosto.steps.AlkostoBusquedaProdStep.validarBusquedaOpcionMenu(AlkostoBusquedaProdStep.java:140)&#13;
+AlkostoBusquedaProdStepDefinitions.validoQueElPortatilSeleccionadoSeaNEGRO(AlkostoBusquedaProdStepDefinitions.java:56)&#13;
+✽.valido que el portatil seleccionado sea PORTÁTIL ACER GAMING, INTEL CORE I5, RAM 8 GB, 512 GB SSD, AN515-55-54Y1, 15.6",(src/test/resources/com.alkosto.features/AlkostoBusquedaProd.feature:21)&#13;
+</system-err></testcase></testsuite>
